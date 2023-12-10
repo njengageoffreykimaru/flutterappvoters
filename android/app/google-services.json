@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519670605889",
+    "project_id": "e-voters-69d7d",
+    "storage_bucket": "e-voters-69d7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519670605889:android:4f7a5f3e389822a4ddfec0",
+        "android_client_info": {
+          "package_name": "com.example.votersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC98H9dFK_gr0RAPhhdtF6zHOSbUIkwJEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
